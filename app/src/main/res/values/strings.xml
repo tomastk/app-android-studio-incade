@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppIncade1</string>
-    <string name="header_title">Calculadora</string>
+    <string name="header_title">LogIn</string>
+    <string name="wrong_user_password">Usuario o contraseña incorrectos</string>
 </resources>
